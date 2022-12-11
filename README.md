@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gyaneshor Singh
-- 👀 I’m interested in btech projects
+- 👀 I’m interested in development projects(html,css,javascript)
 - 🌱 I’m currently learning Btech CSE.
 - 💞️ I’m looking to contact with new peoples who are intrested on coding, projects.
 - 📫 How to reach me ...
