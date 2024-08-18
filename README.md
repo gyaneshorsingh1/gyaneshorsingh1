@@ -1,15 +1,15 @@
 👋 Hi there! I'm Gyaneshor, a passionate web developer currently in my final year of studies. I specialize in creating responsive and dynamic websites. Here’s a snapshot of my skills:
 
-Frontend Development:HTML, CSS, JavaScript
+**Frontend Development**: HTML, CSS, JavaScript
 
-Frameworks: React.js, Bootstrap
+**Frameworks**: React.js, Bootstrap
 
-Libraries: GSAP, ScrollTrigger, Locomotive Scroll
+**Libraries**: GSAP, ScrollTrigger, Locomotive Scroll
 
-Backend Development:
+**Backend Development**:
 Node.js, Express.js
 
-Additional Skills:
+**Additional Skills**:
 Building engaging user experiences
 Constantly exploring new technologies to improve efficiency
 
